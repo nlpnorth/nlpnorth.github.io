@@ -5,25 +5,41 @@ The ITU NLPNorth research group at ITU is a team of faculty, postdocs, PhD stude
 
 # People
 
-
 ## Faculty
 
+- [Barbara Plank](https://bplank.github.io/)
+- [Natalie Schluter](https://natschluter.github.io/)
 
 ## Postdocs
 
+- Dagmara Płonska 
+- Maria Barett
+- Rob van der Goot
 
 ## PhD students
 
+- Daniel Varab
+- Marija Stepanović
 
-## Visiting Scholars
+## External PhD students
 
-## Staff
+- Alan Ramponi
+
+## Research Assistants & Support Staff
+
+- Kristian Nørgaard Jensen
+- Sif Dam Sonniks
+- Simon Poulsen
+
+## Visiting Scholars 
 
 
 # Find us
 
 ## Location
 
+Building: You can find us in Rued Langgaards Vej 7, 2300 Copenhagen S.
+
 ## Social media
 
-[link]
+[@NLPnorth](https://twitter.com/NLPnorth)
