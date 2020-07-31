@@ -13,17 +13,17 @@ The **NLPnorth** Natural Language Processing research group at the [Computer Sci
 ## Postdocs
 
 - Dagmara Płonska 
-- Maria Barett
-- Rob van der Goot
+- [Maria Barrett](https://mariabarrett.github.io/)
+- [Rob van der Goot](http://www.robvandergoot.com/)
 
 ## PhD students
 
-- Daniel Varab
+- [Daniel Varab](https://danielvarab.github.io/)
 - Marija Stepanović
 
 ## External PhD students
 
-- Alan Ramponi
+- [Alan Ramponi](https://alanramponi.github.io/)
 
 ## Research Assistants & Support Staff
 
@@ -33,6 +33,15 @@ The **NLPnorth** Natural Language Processing research group at the [Computer Sci
 
 ## Visiting Scholars 
 
+- Annouk 
+
+## Earlier Visiting Scholars
+
+- [Ahmet Üstün](https://ahmetustun.github.io/) (2019)
+
+## Alumni
+
+- Sigrid Klerke, postdoctoral researcher (2018-2019)
 
 # Find us
 
