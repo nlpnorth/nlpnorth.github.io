@@ -20,6 +20,7 @@ The **NLPnorth** Natural Language Processing research unit at the [Computer Scie
 
 - [Daniel Varab](https://danielvarab.github.io/)
 - Marija Stepanović
+- David Sasu
 
 ## External PhD students
 
