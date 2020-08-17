@@ -34,7 +34,7 @@ The **NLPnorth** Natural Language Processing research unit at the [Computer Scie
 
 ## Visiting Scholars 
 
-- Annouk 
+- Annouk Braggaar
 
 ## Earlier Visiting Scholars
 
