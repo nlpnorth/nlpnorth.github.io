@@ -1,5 +1,5 @@
 # nlpnorth.github.io
-NLPnorth research group at ITU
+NLPnorth research unit at ITU
 
 The **NLPnorth** Natural Language Processing research unit at the [Computer Science department](https://wiki.itu.dk/computerscience/index.php/Main_Page) at [ITU (IT University of Copenhagen)](http://www.itu.dk/) is a team of faculty, postdocs, PhD students, assistants and students who work together on fundamental and applied problems for computational understanding of human languages and speech.
 
@@ -19,8 +19,9 @@ The **NLPnorth** Natural Language Processing research unit at the [Computer Scie
 ## PhD students
 
 - [Daniel Varab](https://danielvarab.github.io/)
-- Marija Stepanović
 - David Sasu
+- Marija Stepanović
+
 
 ## External PhD students
 
