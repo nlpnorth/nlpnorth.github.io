@@ -12,15 +12,17 @@ The **NLPnorth** Natural Language Processing research unit at the [Computer Scie
 
 ## Postdocs
 
-- Dagmara Płonska 
+- [Dagmara Płonska](https://dplonska.github.io/) 
 - [Maria Barrett](https://mariabarrett.github.io/)
 - [Rob van der Goot](http://www.robvandergoot.com/)
 
 ## PhD students
 
 - [Daniel Varab](https://danielvarab.github.io/)
-- David Sasu
-- Marija Stepanović
+- [David Sasu](https://sasudavid.github.io/dsasu/)
+- [Marija Stepanović](https://www.linkedin.com/in/marijastepanovic)
+- [Mike Zhang](https://scholar.google.com/citations?user=Zw6i1v0AAAAJ)
+- [Maximilian Müller-Eberstein](https://scholar.google.com/citations?user=mI392-4AAAAJ)
 
 
 ## External PhD students
