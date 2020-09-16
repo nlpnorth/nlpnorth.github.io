@@ -22,7 +22,7 @@ The **NLPnorth** Natural Language Processing research unit at the [Computer Scie
 - [David Sasu](https://sasudavid.github.io/dsasu/)
 - [Marija Stepanović](https://www.linkedin.com/in/marijastepanovic)
 - [Maximilian Müller-Eberstein](https://scholar.google.com/citations?user=mI392-4AAAAJ)
-- [Mike Zhang](https://scholar.google.com/citations?user=Zw6i1v0AAAAJ)
+- [Mike Zhang](https://jjzha.github.io/)
 
 
 ## External PhD students
