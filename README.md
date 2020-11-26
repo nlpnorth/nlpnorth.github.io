@@ -20,7 +20,7 @@ The **NLPnorth** Natural Language Processing research unit at the [Computer Scie
 
 - [Daniel Varab](https://danielvarab.github.io/)
 - [David Sasu](https://sasudavid.github.io/dsasu/)
-- [Dennis Ulmer](#)
+- [Dennis Ulmer](https://dennisulmer.eu/)
 - [Elisa Bassignana](#)
 - [Marija Stepanović](https://www.linkedin.com/in/marijastepanovic)
 - [Maximilian Müller-Eberstein](https://personads.me)
@@ -40,6 +40,7 @@ The **NLPnorth** Natural Language Processing research unit at the [Computer Scie
 ## Visiting Scholars 
 
 - Annouk Braggaar
+- Musie Meressa Berhe
 
 ## Earlier Visiting Scholars
 
