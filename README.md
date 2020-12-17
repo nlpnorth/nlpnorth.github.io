@@ -27,10 +27,6 @@ The **NLPnorth** Natural Language Processing research unit at the [Computer Scie
 - [Mike Zhang](https://jjzha.github.io/)
 
 
-## External PhD students
-
-- [Alan Ramponi](https://alanramponi.github.io/)
-
 ## Research Assistants & Support Staff
 
 - Kristian Nørgaard Jensen
@@ -44,7 +40,9 @@ The **NLPnorth** Natural Language Processing research unit at the [Computer Scie
 
 ## Earlier Visiting Scholars
 
-- [Ahmet Üstün](https://ahmetustun.github.io/) (2019)
+- [Ahmet Üstün](https://ahmetustun.github.io/) (2019, visiting PhD)
+- [Alan Ramponi](https://alanramponi.github.io/) (2019-2020, visiting PhD)
+
 
 ## Alumni
 
