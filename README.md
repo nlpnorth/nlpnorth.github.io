@@ -52,7 +52,7 @@ The **NLPnorth** Natural Language Processing research unit at the [Computer Scie
 
 ## Location
 
-Building: You can find us in Rued Langgaards Vej 7, 2300 Copenhagen S.
+Building: You can find us in corridor 3E, Rued Langgaards Vej 7, 2300 Copenhagen S.
 
 ## Social media
 
