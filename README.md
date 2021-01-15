@@ -8,6 +8,7 @@ The **NLPnorth** Natural Language Processing research unit at the [Computer Scie
 ## Faculty
 
 - [Barbara Plank](https://bplank.github.io/)
+- [Christian Hardmeier](https://christianhardmeier.rax.ch)
 - [Natalie Schluter](https://natschluter.github.io/)
 
 ## Postdocs
