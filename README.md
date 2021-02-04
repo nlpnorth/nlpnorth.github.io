@@ -36,14 +36,14 @@ The **NLPnorth** Natural Language Processing research unit at the [Computer Scie
 
 ## Visiting Scholars 
 
-- Annouk Braggaar
+
 - Musie Meressa Berhe
 
 ## Earlier Visiting Scholars
 
 - [Ahmet Üstün](https://ahmetustun.github.io/) (2019, visiting PhD)
 - [Alan Ramponi](https://alanramponi.github.io/) (2019-2020, visiting PhD)
-
+- Annouk Braggaar (2020-2021, intern)
 
 ## Alumni
 
