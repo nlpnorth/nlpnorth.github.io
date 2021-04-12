@@ -31,6 +31,7 @@ The **NLPnorth** Natural Language Processing research unit at the [Computer Scie
 ## Research Assistants & Support Staff
 
 - Kristian Nørgaard Jensen
+- Ida Thrane
 - Sif Dam Sonniks
 - Simon Poulsen
 
