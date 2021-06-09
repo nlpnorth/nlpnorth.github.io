@@ -15,7 +15,7 @@ The **NLPnorth** Natural Language Processing research unit at the [Computer Scie
 
 - [Dagmara Płonska](https://dplonska.github.io/) 
 - [Maria Barrett](https://mariabarrett.github.io/)
-- [Rob van der Goot](http://www.robvandergoot.com/)
+- [Rob van der Goot](https://robvanderg.github.io/)
 
 ## PhD students
 
