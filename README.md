@@ -10,12 +10,13 @@ The **NLPnorth** Natural Language Processing research unit at the [Computer Scie
 - [Barbara Plank](https://bplank.github.io/)
 - [Christian Hardmeier](https://christianhardmeier.rax.ch)
 - [Natalie Schluter](https://natschluter.github.io/)
+- [Rob van der Goot](https://robvanderg.github.io/)
+
 
 ## Postdocs
 
 - [Dagmara Płonska](https://dplonska.github.io/) 
 - [Maria Barrett](https://mariabarrett.github.io/)
-- [Rob van der Goot](https://robvanderg.github.io/)
 
 ## PhD students
 
