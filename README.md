@@ -15,7 +15,6 @@ The **NLPnorth** Natural Language Processing research unit at the [Computer Scie
 
 ## Postdocs
 
-- [Dagmara Płonska](https://dplonska.github.io/) 
 - [Maria Barrett](https://mariabarrett.github.io/)
 
 ## PhD students
@@ -32,24 +31,27 @@ The **NLPnorth** Natural Language Processing research unit at the [Computer Scie
 ## Research Assistants & Support Staff
 
 - Kristian Nørgaard Jensen
-- Ida Thrane
 - Sif Dam Sonniks
-- Simon Poulsen
 
 ## Visiting and Affiliated Scholars 
 
-- [Joris Baan](https://jorisbaan.nl/), affiliated PhD 
-- Musie Meressa Berhe, intern
+- [Joris Baan](https://jorisbaan.nl/), affiliated ELLIS PhD student 
 
-## Earlier Visiting Scholars
-
-- [Ahmet Üstün](https://ahmetustun.github.io/) (2019, visiting PhD)
-- [Alan Ramponi](https://alanramponi.github.io/) (2019-2020, visiting PhD)
-- Annouk Braggaar (2020-2021, intern)
 
 ## Alumni
 
 - Sigrid Klerke, postdoctoral researcher (2018-2019)
+- [Dagmara Płonska](https://dplonska.github.io/), postdoctoral researcher (2020-2021)
+
+## Earlier Visiting Scholars, resarch assistants and support staff
+
+- [Ahmet Üstün](https://ahmetustun.github.io/) (2019, visiting PhD)
+- [Alan Ramponi](https://alanramponi.github.io/) (2019-2020, visiting PhD)
+- Annouk Braggaar (2020-2021, intern)
+- Musie Meressa Berhe, intern
+- Ida Thrane
+- Simon Poulsen
+
 
 # Find us
 
