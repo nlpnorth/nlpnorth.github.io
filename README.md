@@ -11,7 +11,7 @@ The **NLPnorth** Natural Language Processing research unit at the [Computer Scie
 - [Christian Hardmeier](https://christianhardmeier.rax.ch)
 - [Natalie Schluter](https://natschluter.github.io/)
 - [Rob van der Goot](https://robvanderg.github.io/)
-
+- [Stefan Heinrich](https://stefanheinrich.net/)
 
 ## Postdocs
 
@@ -23,6 +23,7 @@ The **NLPnorth** Natural Language Processing research unit at the [Computer Scie
 - [David Sasu](https://sasudavid.github.io/dsasu/)
 - [Dennis Ulmer](https://dennisulmer.eu/)
 - [Elisa Bassignana](https://elisabassignana.github.io/)
+- [Joris Baan](https://jorisbaan.nl/), external ELLIS PhD student 
 - [Marija Stepanović](https://www.linkedin.com/in/marijastepanovic)
 - [Maximilian Müller-Eberstein](https://personads.me)
 - [Mike Zhang](https://jjzha.github.io/)
@@ -33,10 +34,9 @@ The **NLPnorth** Natural Language Processing research unit at the [Computer Scie
 - Kristian Nørgaard Jensen
 - Sif Dam Sonniks
 
-## Visiting and Affiliated Scholars 
+## Visiting Scholars 
 
-- [Joris Baan](https://jorisbaan.nl/), affiliated ELLIS PhD student 
-
+None currently.
 
 ## Alumni
 
