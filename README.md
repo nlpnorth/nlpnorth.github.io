@@ -23,7 +23,7 @@ The **NLPnorth** Natural Language Processing research unit at the [Computer Scie
 - [David Sasu](https://sasudavid.github.io/dsasu/)
 - [Dennis Ulmer](https://dennisulmer.eu/)
 - [Elisa Bassignana](https://elisabassignana.github.io/)
-- [Joris Baan](https://jorisbaan.nl/), external 
+- [Joris Baan](https://jorisbaan.nl/), affiliated 
 - [Marija Stepanović](https://www.linkedin.com/in/marijastepanovic)
 - [Maximilian Müller-Eberstein](https://personads.me)
 - [Mike Zhang](https://jjzha.github.io/)
