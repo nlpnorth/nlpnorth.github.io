@@ -36,7 +36,7 @@ The **NLPnorth** Natural Language Processing research unit at the [Computer Scie
 
 ## Visiting Scholars 
 
-- [Sajawel Ahmed], visiting PhD, Goethe University Frankfurt 
+- [Sajawel Ahmed](https://www.uni-frankfurt.de/86340838/Sajawel_Ahmed), visiting PhD, Goethe University Frankfurt 
   
 ## Alumni
 
