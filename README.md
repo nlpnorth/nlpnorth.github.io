@@ -36,8 +36,8 @@ The **NLPnorth** Natural Language Processing research unit at the [Computer Scie
 
 ## Visiting Scholars 
 
-None currently.
-
+- [Sajawel Ahmed], visiting PhD, Goethe University Frankfurt 
+  
 ## Alumni
 
 - Sigrid Klerke, postdoctoral researcher (2018-2019)
@@ -49,7 +49,7 @@ None currently.
 - [Alan Ramponi](https://alanramponi.github.io/) (2019-2020, visiting PhD)
 - Annouk Braggaar (2020-2021, intern)
 - Musie Meressa Berhe, intern
-- Ida Thrane
+- Ida Thrane (2020-2021)
 - Simon Poulsen
 
 
