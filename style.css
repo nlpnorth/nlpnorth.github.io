@@ -488,7 +488,7 @@ div.people {
 	margin-bottom: 3em;
 }
 
-a.person {
+.person {
 	display: inline-block;
 	width: 185px;
 	margin:  1em;
@@ -499,7 +499,7 @@ a.person {
 	text-decoration-color: rgba(244, 100, 100, 0.8);
 }
 
-a.person img {
+.person img {
 	display: block;
 	width: 9em;
 	height: 9em;
