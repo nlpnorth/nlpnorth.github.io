@@ -280,6 +280,9 @@ body.content section:first-of-type h1 {
 h3.emphasized {
 	text-align: center;
 	color: rgba(255, 255, 255, .8);
+}
+
+h3.emphasized::before, h3.emphasized::after {
 	content: "";
 	display: inline-block;
 	position: relative;
@@ -289,6 +292,15 @@ h3.emphasized {
 	background-color: rgba(215, 41, 41, 0.9);
 }
 
+h3.emphasized::before {
+	right: .5em;
+	margin-left: -50%;
+}
+
+h3.emphasized::after {
+	left: .5em;
+	margin-right: -50%;
+}
 
 img.icon-large {
 	height: 2.5em;
