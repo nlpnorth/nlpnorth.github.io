@@ -488,6 +488,10 @@ div.people {
 	margin-bottom: 3em;
 }
 
+div.people.inline {
+	justify-content: left;
+}
+
 .person {
 	display: inline-block;
 	width: 185px;
@@ -497,6 +501,10 @@ div.people {
 	border-bottom: none;
 	text-decoration: none;
 	text-decoration-color: rgba(244, 100, 100, 0.8);
+}
+
+div.people.inline .person {
+	margn: .1em;
 }
 
 .person img {
@@ -510,9 +518,19 @@ div.people {
 	transition: all .3s;
 }
 
+div.people.inline .person img {
+	width: 6em;
+	height: 6em;
+	filter: grayscale(100%);
+}
+
 a.person:hover img {
 	border: 5px solid rgba(255, 255, 255, .5);
 	transform: scale(1.1);
+}
+
+div.people.inline .person:hover img {
+	filter: grayscale(0%);
 }
 
 a.person .name {
