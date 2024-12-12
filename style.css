@@ -521,6 +521,9 @@ div.people.inline .person {
 div.people.inline .person img {
 	width: 6em;
 	height: 6em;
+}
+
+div.people.desaturated .person img {
 	filter: grayscale(100%);
 }
 
