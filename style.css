@@ -304,8 +304,10 @@ h3.emphasized::after {
 
 img.icon-large {
 	height: 2.5em;
+	width: 2.5em;
 	margin:  0 1em 0 0;
 	vertical-align: middle;
+	object-fit: contain;
 }
 
 a.separator-link {
@@ -504,7 +506,7 @@ div.people.inline {
 }
 
 div.people.inline .person {
-	margn: .1em;
+	margin: .1em;
 }
 
 .person img {
